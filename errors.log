@@ -1,0 +1,38 @@
+ERROR:root:2021-05-15 15:45:59.196347
+("Connection broken: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)", ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+ERROR:root:2021-05-15 22:37:24.538583
+("Connection broken: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)", ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+ERROR:root:2021-05-15 22:38:10.232971
+("Connection broken: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)", ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+ERROR:root:2021-05-30 17:26:00.636128
+'Ссылка'
+ERROR:root:2021-05-30 17:27:31.415894
+'<' not supported between instances of 'str' and 'int'
+ERROR:root:2021-05-30 17:27:54.954717
+'<' not supported between instances of 'str' and 'int'
+ERROR:root:2021-06-10 23:05:57.185194
+None: Max retries exceeded with url: /catalog/zhenshchinam/odezhda?price=1;150&sort=priceup (Caused by None)
+ERROR:root:2021-06-12 12:16:05.151349
+'list' object has no attribute 'lower'
+ERROR:root:2021-06-16 13:32:35.427927
+list index out of range
+ERROR:root:2021-06-16 13:34:36.063565
+list index out of range
+ERROR:root:2021-06-25 15:23:13.486242
+-1
+ERROR:root:2021-06-25 15:23:53.705502
+-1
+ERROR:root:2021-06-25 15:24:09.616414
+-1
+ERROR:root:2021-07-13 10:02:25.139177
+None: Max retries exceeded with url: /catalog/muzhchinam/bele?xsubject=165;2684;2686;2693;166;2685;2688;133&priceU=100;10000&sort=priceup (Caused by None)
+ERROR:root:2021-07-13 10:05:50.688338
+None: Max retries exceeded with url: /catalog/elektronika/noutbuki-i-kompyutery/komplektuyushchie-dlya-pk?xsubject=4066;5172;5174;4075&priceU=100;15000&sort=priceup (Caused by None)
+ERROR:root:2021-07-20 21:58:01.839337
+list index out of range
+ERROR:root:2021-07-20 21:58:09.916581
+list index out of range
+ERROR:root:2021-07-22 10:53:01.137197
+name 'data_temp' is not defined
+ERROR:root:2021-07-23 10:54:56.458506
+None: Max retries exceeded with url: /catalog/aksessuary/zonty?priceU=100;10000&sort=priceup (Caused by None)
